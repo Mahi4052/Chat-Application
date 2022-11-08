@@ -4,4 +4,5 @@ Creating GUI of Chat Application using sockets programming and networking in Jav
 - Then compile (javac file_name.java) and run (java file_name) in command prompt.
 - Hence Client's GUI and Server's prompt will be ready to start the chat. 
 
+
 ![Combined Images](https://user-images.githubusercontent.com/95848665/200626745-8e12dfab-5e5e-4650-ae3a-297b515f63db.jpg)
